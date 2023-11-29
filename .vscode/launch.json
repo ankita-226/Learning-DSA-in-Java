@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Patternpart1",
+            "request": "launch",
+            "mainClass": "Patternpart1",
+            "projectName": "DSA_38a8f55a"
+        },
+        {
+            "type": "java",
+            "name": "continueStatement",
+            "request": "launch",
+            "mainClass": "continueStatement",
+            "projectName": "DSA_38a8f55a"
+        },
+        {
+            "type": "java",
+            "name": "breakStatement",
+            "request": "launch",
+            "mainClass": "breakStatement",
+            "projectName": "DSA_38a8f55a"
+        },
+        {
+            "type": "java",
+            "name": "forloop",
+            "request": "launch",
+            "mainClass": "forloop",
+            "projectName": "DSA_38a8f55a"
+        },
+        {
+            "type": "java",
+            "name": "conditionalStatementQuestions",
+            "request": "launch",
+            "mainClass": "conditionalStatementQuestions",
+            "projectName": "DSA_38a8f55a"
+        },
+        {
+            "type": "java",
+            "name": "ConditionalStatements",
+            "request": "launch",
+            "mainClass": "ConditionalStatements",
+            "projectName": "DSA_38a8f55a"
+        },
+        {
+            "type": "java",
             "name": "OperatorsQuestions",
             "request": "launch",
             "mainClass": "OperatorsQuestions",
