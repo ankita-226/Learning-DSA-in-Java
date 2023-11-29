@@ -1,5 +1,5 @@
-public class Patternpart1 {
-    public static void main(String args[]){
+// public class Patternpart1 {
+//     public static void main(String args[]){
     // for(int i=1;i<=4;i++){
     //     for(int j=1;j<=i;j++){
     //         System.out.print(j);
@@ -38,10 +38,10 @@ public class Patternpart1 {
   // System.out.println(exp1);
   // System.out.println(exp2);
 
-  double exp1 = (3.0 * 2 / 4);
-  int exp2 = (3 * -2 % 4);
+  // double exp1 = (3.0 * 2 / 4);
+  // int exp2 = (3 * -2 % 4);
  
-  System.out.println(exp1);
-  System.out.println(exp2);
-    }
-}
+  // System.out.println(exp1);
+  // System.out.println(exp2);
+  //   }
+// }
